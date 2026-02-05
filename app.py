@@ -5,7 +5,7 @@
 import streamlit as st
 import random
 
-# Tile
+# Title
 st.title("Welcome to a dicey game!!")
 
 
@@ -75,6 +75,7 @@ if st.session_state.over:
         st.error("Computer Wins....")
     else:
         st.info("It's a Draw.")
+
         
 
     
