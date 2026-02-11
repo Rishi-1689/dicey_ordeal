@@ -1,2 +1,2 @@
-# here is my "dicey-game"
+# Roll the dice
 https://diceyordeal-rishi.streamlit.app/
